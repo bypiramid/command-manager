@@ -1,5 +1,5 @@
-main: ${group}.bukkit.BukkitMain
+main: ${group}.bungee.BungeeMain
 name: ${name}
 description: ${description}
 version: ${version}
-author: ${author}
+author: [${author}]

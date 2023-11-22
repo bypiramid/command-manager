@@ -5,7 +5,6 @@ plugins {
 group = "net.bypiramid.commandmanager"
 version = "git-1.1-SNAPSHOT"
 
-val website: String by extra { "https://github.com/bypiramid/command-manager" }
 val author: String by extra { "comicxz" }
 
 tasks.withType<JavaCompile> {
